@@ -26,6 +26,13 @@ A DIY servers cabinet solution made of aluminium section / 一种铝型材自制
 * 方孔立柱底部安装螺栓需更换为 M5 12，不然无法安装
 * 模型中普通角件使用的紧固件安装方式为倒装，实体中为正装
 
+## 案例
+### 案例 1
+目前本人的机柜已经上了一台交换机、一台 1U 软路由、一台 2U NAS、一台 4U 应用服务器，实际运行2年，未出现结构问题。
+![IMG20230703121001](https://github.com/user-attachments/assets/a7be8f74-c31a-4cc6-94e8-1b43993cb667)
 
+
+### 其他案例
+* 欢迎各路大佬的投稿
 
 ## README 文档尚未更新完全，请期待更新。
